@@ -1,1 +1,1 @@
-# Womens-fast-fashion-sentiment
+Analyzing Reddit Sentiment for Women's Fashion Brands
